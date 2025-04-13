@@ -115,7 +115,7 @@ export async function signUp(params: SignUpParams) {
 }
 
 export async function signIn(params: SignInParams) {
-  const { email, idToken } = params;//idToken is jwt
+  const { email, idToken } = params; //idToken is jwt
 
   try {
     const userRecord = await auth.getUserByEmail(email);
