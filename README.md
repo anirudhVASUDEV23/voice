@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 Job Interview Prep with AI Voice Agents
 
-## Getting Started
+## ⚙️ Tech Stack
 
-First, run the development server:
+- ⚛️ **Next.js** – Full-stack React Framework
+- 🔥 **Firebase** – Authentication, Firestore, Hosting
+- 🎨 **Tailwind CSS** – Utility-first CSS framework
+- 🧠 **Vapi AI** – Real-time voice agent communication
+- 🧩 **shadcn/ui** – Beautiful accessible UI components
+- 🌈 **Google Gemini API** – AI for feedback and questions
+- 🛡 **Zod** – Type-safe schema validation
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔋 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ✅ **Authentication** – Email/password login via Firebase
+- 🎙️ **Create Interviews** – AI-assisted interview generation
+- 📢 **AI Feedback** – Immediate, personalized interview feedback
+- 💬 **Voice Agent** – Real-time interaction with Vapi AI
+- 🖥 **Modern UI** – Responsive and accessible design
+- 📄 **Transcripts** – Detailed conversation logs
+- 📊 **Dashboard** – Manage interview sessions
+- ♻️ **Reusable Architecture** – Organized, scalable codebase
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# 🧠 Job Interview Prep with AI Voice Agents
 
-## Learn More
+## ⚙️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- ⚛️ **Next.js** – Full-stack React Framework
+- 🔥 **Firebase** – Authentication, Firestore, Hosting
+- 🎨 **Tailwind CSS** – Utility-first CSS framework
+- 🧠 **Vapi AI** – Real-time voice agent communication
+- 🧩 **shadcn/ui** – Beautiful accessible UI components
+- 🌈 **Google Gemini API** – AI for feedback and questions
+- 🛡 **Zod** – Type-safe schema validation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔋 Features
 
-## Deploy on Vercel
+- ✅ **Authentication** – Email/password login via Firebase
+- 🎙️ **Create Interviews** – AI-assisted interview generation
+- 📢 **AI Feedback** – Immediate, personalized interview feedback
+- 💬 **Voice Agent** – Real-time interaction with Vapi AI
+- 🖥 **Modern UI** – Responsive and accessible design
+- 📄 **Transcripts** – Detailed conversation logs
+- 📊 **Dashboard** – Manage interview sessions
+- ♻️ **Reusable Architecture** – Organized, scalable codebase
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🧪 Upcoming Features
+These enhancements are planned for future releases:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🧾 Resume Uploads – Use your resume to generate personalized interview questions
+
+📊 Performance Analytics – Visual feedback and progress tracking
+
+🧑‍💻 Role-Specific Templates – Tailored question sets for different job roles
+
+💬 Text-Based Interview Mode – Chat-based interviews for users without mic access
+
+🌍 Language Options – Interview in multiple languages
+
+📅 Interview Scheduling – Book slots and get reminders
+
+🧠 Structured Rounds – Behavioral and technical rounds handled intelligently
+
+🌐 [Click here to try Prepwise now](https://voice-phi-nine.vercel.app/)
+
+Experience AI-powered interview prep in action!
+
+## 🚀 Live Demo
+
+🌐 [Click here to try Prepwise now](https://voice-phi-nine.vercel.app/)
+
+Experience AI-powered interview prep in action!
+
+
+
